@@ -1,2 +1,2 @@
 # lua_demos
-Lua demos / Started on October 23
+Lua demos-codes in speech / Started on October 23
